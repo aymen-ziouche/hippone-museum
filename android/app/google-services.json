@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206772255594",
+    "project_id": "hippone-museum-ee5b4",
+    "storage_bucket": "hippone-museum-ee5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206772255594:android:687a0cb61e89fde3d5c313",
+        "android_client_info": {
+          "package_name": "com.example.hippone_museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206772255594-kbpq3267n9pvddcj8q2bpd0eactbn48k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhYbJLmlOjtraxljlHKjjUtdkN296ias"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206772255594-kbpq3267n9pvddcj8q2bpd0eactbn48k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
